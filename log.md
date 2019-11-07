@@ -12,6 +12,12 @@
 **Today's Progress**: Today i learned some Javascript with freecodecamp and learned c# 
 
 
+### Day 3:November 7, 2019 
+
+
+**Today's Progress**: Today i learned how to draw using p5js @thecodingtrain and i read html and css book by Jon Duckett it's great book for newbies and finished some c# basics
+
+
 
 
 
