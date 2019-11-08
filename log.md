@@ -18,6 +18,11 @@
 **Today's Progress**: Today i learned how to draw using p5js @thecodingtrain and i read html and css book by Jon Duckett it's great book for newbies and finished some c# basics
 
 
+### Day 4 :November 8, 2019 
+
+
+**Today's Progress**: Today I studied how can I move my player in unity using c# and I read html and CSS book by Jon Duckett it's a great book for newbies 
+
 
 
 
