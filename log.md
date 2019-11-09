@@ -24,6 +24,12 @@
 **Today's Progress**: Today I studied how can I move my player in unity using c# and I read html and CSS book by Jon Duckett it's a great book for newbies 
 
 
+### Day 5 :November 9, 2019 
+
+
+**Today's Progress**: Today was not sp productive but i learend javascript and how i can you use it to build basic website.
+
+
 
 
 
