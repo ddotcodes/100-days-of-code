@@ -27,7 +27,7 @@
 ### Day 5 :November 9, 2019 
 
 
-**Today's Progress**: Today was not sp productive but i learend javascript and how i can you use it to build basic website.
+**Today's Progress**:Today was not so productive day though, I learned javascript and how I can use it to build a basic website.
 
 
 
