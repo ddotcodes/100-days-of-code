@@ -30,7 +30,10 @@
 **Today's Progress**:Today was not so productive day though, I learned javascript and how I can use it to build a basic website.
 
 
+### Day 6 :November 10, 2019 
 
+
+**Today's Progress**: Today I learned the fundamentals of C#, Difference between C# and .NET, CLR Architecture of .NET Applications, Variables and Constant Overflowing.
 
 
 
