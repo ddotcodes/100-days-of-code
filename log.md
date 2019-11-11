@@ -36,4 +36,10 @@
 **Today's Progress**: Today I learned the fundamentals of C#, Difference between C# and .NET, CLR Architecture of .NET Applications, Variables and Constant Overflowing.
 
 
+### Day 7: November 11, 2019 
+
+
+**Today's Progress**: Today I learned the fundamentals of C#, Difference between C# and .NET, and Javascript.
+
+
 
