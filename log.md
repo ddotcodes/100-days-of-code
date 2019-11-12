@@ -42,4 +42,9 @@
 **Today's Progress**: Today I learned the fundamentals of C#, Difference between C# and .NET, and Javascript.
 
 
+### Day 8: November 12, 2019 
+
+
+**Today's Progress**: Today I learned the fundamentals of C#, unity3d , and Javascript.
+
 
