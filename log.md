@@ -54,3 +54,9 @@
 **Today's Progress**:  Today I learned the C# for 4hours it was quite exciting, unity3d, and Javascript.
 
 
+### Day 10 : November 14, 2019 
+
+
+**Today's Progress**:  Today I learned the C# and  it was quite exciting.
+
+
