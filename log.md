@@ -59,4 +59,9 @@
 
 **Today's Progress**:  Today I learned the C# and  it was quite exciting.
 
+## Day 11 : November 15, 2019 
+
+
+**Today's Progress**:  Today I learned the C# and learned about git commands and css grid.
+
 
