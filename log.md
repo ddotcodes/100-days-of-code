@@ -65,3 +65,8 @@
 **Today's Progress**:  Today I learned the C# and learned about git commands and css grid.
 
 
+### Day 12 : November 16, 2019 
+
+
+**Today's Progress**:Today was not so productive day though, i learned unity3D and C#.
+
