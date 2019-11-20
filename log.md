@@ -88,3 +88,9 @@
 **Today's Progress**: I learned javascript and github.
 
 
+### Day 16 : November 20, 2019 
+
+
+**Today's Progress**: I learned javascript and CSS.
+
+
