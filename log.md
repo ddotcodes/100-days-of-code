@@ -94,3 +94,10 @@
 **Today's Progress**: I learned javascript and CSS.
 
 
+
+### Day 17 :November 21, 2019 
+
+
+**Today's Progress**: Today I learned the Difference between C# and .NET, CLR Architecture of .NET Applications, Variables and Constant Overflowing and css grid
+
+
