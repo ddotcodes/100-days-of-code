@@ -101,3 +101,9 @@
 **Today's Progress**: Today I learned the Difference between C# and .NET, CLR Architecture of .NET Applications, Variables and Constant Overflowing and css grid
 
 
+### Day 18 :November 23, 2019 
+
+
+**Today's Progress**: Today I learned phython and Variables and C# it was so intresting.
+
+
