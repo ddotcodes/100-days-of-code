@@ -107,3 +107,9 @@
 **Today's Progress**: Today I learned phython and Variables and C# it was so intresting.
 
 
+### Day 19 :November 24, 2019 
+
+
+**Today's Progress**: Today I learned phython and Variables and java it was so intresting.
+
+
