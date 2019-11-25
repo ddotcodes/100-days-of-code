@@ -112,4 +112,9 @@
 
 **Today's Progress**: Today I learned phython and Variables and java it was so intresting.
 
+### Day 20 :November 25, 2019 
+
+
+**Today's Progress**: Today I learned phython and java for about 4 hours and it is really adictive 
+
 
