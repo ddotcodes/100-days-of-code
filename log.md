@@ -115,6 +115,13 @@
 ### Day 20 :November 25, 2019 
 
 
-**Today's Progress**: Today I learned phython and java for about 4 hours and it is really adictive 
+**Today's Progress**: Today I learned phython and java for about 4 hours and it is really adictive
+
+### Day 21 :November 26, 2019 
+
+
+**Today's Progress**: Today I learned phython and i made pong game it was so hard for me at the 
+beginning but it was so intresting
+
 
 
