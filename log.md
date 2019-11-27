@@ -123,5 +123,11 @@
 **Today's Progress**: Today I learned phython and i made pong game it was so hard for me at the 
 beginning but it was so intresting
 
+### Day 22 :November 27, 2019 
+
+
+**Today's Progress**: Today I learned phython and made some basic calculator and madlip game and it is so addictive
+
+
 
 
