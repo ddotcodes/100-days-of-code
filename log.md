@@ -129,5 +129,8 @@ beginning but it was so intresting
 **Today's Progress**: Today I learned phython and made some basic calculator and madlip game and it is so addictive
 
 
+### Day 23 :November 28, 2019 
 
+
+**Today's Progress**: Today I learned python and its kinda hard at the beginning and i learned javascript
 
