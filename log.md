@@ -140,3 +140,8 @@ beginning but it was so intresting
 
 **Today's Progress**: Today I learned python and its kinda intresting and i learned javascript
 
+### Day 25 :November 30, 2019 
+
+
+**Today's Progress**: Today I learned python and its kinda intresting but its getting hard when we try some new things
+
