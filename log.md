@@ -145,8 +145,13 @@ beginning but it was so intresting
 
 **Today's Progress**: Today I learned python and its kinda intresting but its getting hard when we try some new things
 
-### Day 26 :November 1, 2019 
+### Day 26 :December 1, 2019 
 
 
 **Today's Progress**: Today wasn't so productive day but I learned python and i started a little more advanced level and also i'm focusing on java  
+
+### Day 27 :December 2, 2019 
+
+
+**Today's Progress**: Today was so productive day I learned python and i started a little more advanced level and also i'm focusing on java  
 
