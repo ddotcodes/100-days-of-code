@@ -155,3 +155,9 @@ beginning but it was so intresting
 
 **Today's Progress**: Today was so productive day I learned python and i started a little more advanced level and also i'm focusing on java  
 
+### Day 28 :December 3, 2019 
+
+
+**Today's Progress**: Today was so little hard day I learned python and css 
+
+
