@@ -160,4 +160,7 @@ beginning but it was so intresting
 
 **Today's Progress**: Today was so little hard day I learned python and css 
 
+### Day 29 :December 4, 2019 
 
+
+**Today's Progress**: today i learned some awesome things about javascript.
