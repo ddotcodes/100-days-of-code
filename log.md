@@ -164,3 +164,9 @@ beginning but it was so intresting
 
 
 **Today's Progress**: today i learned some awesome things about javascript.
+
+### Day 30 :December 5, 2019 
+
+
+**Today's Progress**: today i learned puthon and javascript.
+
