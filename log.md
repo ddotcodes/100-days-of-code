@@ -168,5 +168,11 @@ beginning but it was so intresting
 ### Day 30 :December 5, 2019 
 
 
-**Today's Progress**: today i learned puthon and javascript.
+**Today's Progress**: today i learned python and javascript.
+
+### Day 31 :December 6, 2019 
+
+
+**Today's Progress**: today i learned some basic topics about web development
+
 
