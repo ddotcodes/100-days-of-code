@@ -175,4 +175,10 @@ beginning but it was so intresting
 
 **Today's Progress**: today i learned some basic topics about web development
 
+### Day 32 :December 7, 2019 
+
+
+**Today's Progress**: today i learned some basic topics about web development
+
+
 
