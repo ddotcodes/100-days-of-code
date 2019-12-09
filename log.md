@@ -185,6 +185,12 @@ beginning but it was so intresting
 
 **Today's Progress**: today i learned some basic topics about web development and python 
 
+### Day 34 :December 9, 2019 
+
+
+**Today's Progress**: Today was little hard day but i learned more about python and javascript  
+
+
 
 
 
