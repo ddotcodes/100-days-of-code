@@ -188,7 +188,13 @@ beginning but it was so intresting
 ### Day 34 :December 9, 2019 
 
 
-**Today's Progress**: Today was little hard day but i learned more about python and javascript  
+**Today's Progress**: Today was little hard day but i learned more about python and javascript
+
+### Day 35 :December 10, 2019 
+
+
+**Today's Progress**: Today i only focused on web development and i learned about CSS layout and CSS transitions and animations and also learning JavaScript Objects, prototypes, and inheritance.  
+
 
 
 
