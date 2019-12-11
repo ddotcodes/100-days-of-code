@@ -195,6 +195,11 @@ beginning but it was so intresting
 
 **Today's Progress**: Today i only focused on web development and i learned about CSS layout and CSS transitions and animations and also learning JavaScript Objects, prototypes, and inheritance.  
 
+### Day 36 :December 11, 2019 
+
+
+**Today's Progress**: Today is 2nd day of learning web devlopment
+
 
 
 
