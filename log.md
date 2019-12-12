@@ -200,6 +200,10 @@ beginning but it was so intresting
 
 **Today's Progress**: Today is 2nd day of learning web devlopment
 
+### Day 37 :December 12, 2019 
+
+
+**Today's Progress**: Today was a crasy day today i learned about CSS and learned some more intresting topics in html 
 
 
 
