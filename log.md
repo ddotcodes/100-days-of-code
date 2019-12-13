@@ -205,6 +205,13 @@ beginning but it was so intresting
 
 **Today's Progress**: Today was a crasy day today i learned about CSS and learned some more intresting topics in html 
 
+### Day 38 :December 13, 2019 
+
+
+**Today's Progress**: Today was a good day i learned about CSS grid and CSS layout and also learning figma for designing web and mobile applications  
+
+
+
 
 
 
