@@ -177,7 +177,6 @@ beginning but it was so intresting
 
 ### Day 32 :December 7, 2019 
 
-
 **Today's Progress**: today i learned some basic topics about web development
 
 ### Day 33 :December 8, 2019 
@@ -210,6 +209,12 @@ beginning but it was so intresting
 
 **Today's Progress**: Today was a good day i learned about CSS grid and CSS layout and also learning figma for designing web and mobile applications  
 
+
+### Day 39 :December 14, 2019 
+
+
+**Today's Progress**: Today was a great day i learned more concepts in web development and also learning adobe  
+xd to design website i'm improving ay by day 
 
 
 
