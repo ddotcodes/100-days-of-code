@@ -216,6 +216,12 @@ beginning but it was so intresting
 **Today's Progress**: Today was a great day i learned more concepts in web development and also learning adobe  
 xd to design website i'm improving ay by day 
 
+### Day 40 :December 15, 2019 
+
+
+**Today's Progress**: Today was a great day i learned more concepts in web development and also learning adobe  
+xd to design website i'm improving ay by day 
+
 
 
 
