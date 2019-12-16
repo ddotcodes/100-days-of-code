@@ -220,7 +220,13 @@ xd to design website i'm improving ay by day
 
 
 **Today's Progress**: Today was a great day i learned more concepts in web development and also learning adobe  
-xd to design website i'm improving ay by day 
+xd to design website i'm improving ay by day
+
+### Day 41 :December 16, 2019 
+
+
+**Today's Progress**: Today was a great day i've been studied web development for about 5hours and learned bootstrap and advanced level CSS and CSS flexbox. I'm prograssing day by day 
+
 
 
 
