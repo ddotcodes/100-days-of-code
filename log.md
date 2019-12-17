@@ -225,7 +225,13 @@ xd to design website i'm improving ay by day
 ### Day 41 :December 16, 2019 
 
 
-**Today's Progress**: Today was a great day i've been studied web development for about 5hours and learned bootstrap and advanced level CSS and CSS flexbox. I'm prograssing day by day 
+**Today's Progress**: Today was a great day i've been studied web development for about 5hours and learned bootstrap and advanced level CSS and CSS flexbox. I'm prograssing day by day
+
+### Day 42 :December 17, 2019 
+
+
+**Today's Progress**: Today was awesome day i made landing page for website using CSS and Bootstrap and also using mailchimp
+
 
 
 
