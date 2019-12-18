@@ -232,6 +232,10 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**: Today was awesome day i made landing page for website using CSS and Bootstrap and also using mailchimp
 
+### Day 43 :December 18, 2019 
+
+
+**Today's Progress**: Today i learned CSS grid and Layout and the difference between Flex box and grid 
 
 
 
