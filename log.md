@@ -237,6 +237,11 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**: Today i learned CSS grid and Layout and the difference between Flex box and grid 
 
+### Day 44 :December 19, 2019 
+
+
+**Today's Progress**: Today i learned CSS grid and  some advanced concepts in CSS 
+
 
 
 
