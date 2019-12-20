@@ -240,7 +240,13 @@ xd to design website i'm improving ay by day
 ### Day 44 :December 19, 2019 
 
 
-**Today's Progress**: Today i learned CSS grid and  some advanced concepts in CSS 
+**Today's Progress**: Today i learned CSS grid and  some advanced concepts in CSS
+
+### Day 45 :December 20, 2019 
+
+
+**Today's Progress**: Today i learned javascript and how to build responsive website 
+
 
 
 
