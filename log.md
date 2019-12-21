@@ -247,6 +247,15 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**: Today i learned javascript and how to build responsive website 
 
+### Day 45 :December 20, 2019 
+
+
+**Today's Progress**: Today i learned javascript and how to build responsive website 
+
+### Day 46 :December 21, 2019 
+
+
+**Today's Progress**: Today is the second day of learning javascript today i didn't code much but i'm doing great  
 
 
 
