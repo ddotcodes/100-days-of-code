@@ -252,6 +252,11 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**:Today is the second day of learning javascript today i didn't code much but i'm doing great 
 
+### Day 47 :December 22, 2019 
+
+
+**Today's Progress**:Today is the third day of learning javascript  and also trying to understand react and backend basics and i've been coding all day every day its kinda addictive. 
+
 
 
 
