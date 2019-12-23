@@ -257,6 +257,10 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**:Today is the third day of learning javascript  and also trying to understand react and backend basics and i've been coding all day every day its kinda addictive. 
 
+### Day 48 :December 23, 2019 
+
+
+**Today's Progress**:Today is the fourth day of learning javascript  and also continued of trying to understand react.js and backend basics 
 
 
 
