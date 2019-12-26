@@ -274,6 +274,11 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**:Today i was only focused on react.js 
 
+### Day 51 :December 26, 2019 #100DaysOfCode
+
+
+**Today's Progress**:Today is great day i've been studying a lot about javascript and react.js
+
 
 
 
