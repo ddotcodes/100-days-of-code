@@ -280,6 +280,12 @@ xd to design website i'm improving ay by day
 **Today's Progress**:Today is great day i've been studying a lot about javascript and react.js
 
 
+### Day 52 :December 27, 2019 #100DaysOfCode
+
+
+**Today's Progress**:It's been a long day i am continued learning react.js and started to learn Sass. Never stop learning
+
+
 
 
 
