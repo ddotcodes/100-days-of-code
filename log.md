@@ -285,6 +285,11 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**:It's been a long day i am continued learning react.js and started to learn Sass. Never stop learning
 
+### Day 53 :December 28, 2019 #100DaysOfCode
+
+
+**Today's Progress**:It's been a long day i am spending my morning time for highschool works and spending my night time learning programming languages its kinda stressing me out sometimes but i continued to learn javascript and currently i am designing a website
+
 
 
 
