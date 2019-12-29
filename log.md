@@ -291,6 +291,12 @@ xd to design website i'm improving ay by day
 **Today's Progress**:It's been a long day i am spending my morning time for highschool works and spending my night time learning programming languages its kinda stressing me out sometimes but i continued to learn javascript and currently i am designing a website
 
 
+### Day 54 :December 29, 2019 #100DaysOfCode
+
+
+**Today's Progress**:It's a great day i learned about data structure in javascript
+
+
 
 
 
