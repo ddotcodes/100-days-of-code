@@ -296,6 +296,11 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**:It's a great day i learned about data structure in javascript
 
+### Day 55 :December 30, 2019 #100DaysOfCode
+
+
+**Today's Progress**: Today i resume to learn python and also i was practicing some css animations 
+
 
 
 
