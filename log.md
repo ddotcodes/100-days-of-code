@@ -302,6 +302,11 @@ xd to design website i'm improving ay by day
 **Today's Progress**: Today i resume to learn python and also i was practicing some css animations 
 
 
+### Day 56 :December 31, 2019 #100DaysOfCode
+
+
+**Today's Progress**: Today i couldn't spent more time in programming but i am still learning CSS flexbox and CSS 3D transforms. Never stop learning.
+
 
 
 
