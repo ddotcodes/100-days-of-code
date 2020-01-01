@@ -307,6 +307,13 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**: Today i couldn't spent more time in programming but i am still learning CSS flexbox and CSS 3D transforms. Never stop learning.
 
+### Day 57 :December , 2019 #100DaysOfCode
+
+
+**Today's Progress**: Today i learned javascript looping and also read a book called "Transforms in CSS" by Eric A. Myer a well detailed book.
+
+
+
 
 
 
