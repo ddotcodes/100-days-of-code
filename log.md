@@ -328,6 +328,11 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**: I continued to learn javascript and learning DOM. Never stop learning
 
+### Day 61 :january 5, 2020 #100DaysOfCode
+
+
+**Today's Progress**: I continued to learning DOM and started to learn jquery. Never stop learning
+
 
 
 
