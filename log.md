@@ -333,6 +333,11 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**: I continued to learning DOM and started to learn jquery. Never stop learning
 
+### Day 62 :january 6, 2020 #100DaysOfCode
+
+
+**Today's Progress**: Today i made background gradient picker using javascript and CSS and i had so much fun.
+
 
 
 
