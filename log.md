@@ -338,6 +338,18 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**: Today i made background gradient picker using javascript and CSS and i had so much fun.
 
+### Day 63 :january 7, 2020 #100DaysOfCode
+
+
+**Today's Progress**: I am continued to learn react.js
+
+### Day 64 :january 8, 2020 #100DaysOfCode
+
+
+**Today's Progress**: I am continued to learn react.js and CSS layout
+
+
+
 
 
 
