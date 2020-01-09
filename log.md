@@ -343,10 +343,13 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**: I am continued to learn react.js
 
-### Day 64 :january 8, 2020 #100DaysOfCode
+### Day 64 :january 9, 2020 #100DaysOfCode
 
 
-**Today's Progress**: I am continued to learn react.js and CSS layout
+**Today's Progress**:Today i didn;t code much but i read a book called "Transforms in CSS" by Eric A. Myer a well detailed book.
+
+
+
 
 
 
