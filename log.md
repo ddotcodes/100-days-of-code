@@ -348,6 +348,11 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**:Today i didn;t code much but i read a book called "Transforms in CSS" by Eric A. Myer a well detailed book.
 
+### Day 65 :january 10, 2020 #100DaysOfCode
+
+
+**Today's Progress**:Today i didn;t code much but i read a book called Beautiful javascript. Myer a well detailed book.
+
 
 
 
