@@ -353,6 +353,17 @@ xd to design website i'm improving ay by day
 
 **Today's Progress**:Today i didn;t code much but i read a book called Beautiful javascript. Myer a well detailed book.
 
+### Day 66 :january 11, 2020 #100DaysOfCode
+
+
+**Today's Progress**:Today i didn;t code much but i read a book called Beautiful javascript. Myer a well detailed book.
+
+### Day 67 :january 12, 2020 #100DaysOfCode
+
+
+**Today's Progress**: After a long days i am continued to learn python. Python become my favorite language
+
+
 
 
 
